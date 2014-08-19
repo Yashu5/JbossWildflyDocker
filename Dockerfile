@@ -1,3 +1,3 @@
 FROM jboss/wildfly
-ADD wildfly-carmart.war /opt/wildfly/standalone/deployments/wildfly-carmart.war
+ADD wildfly-ejb-in-war.war /opt/wildfly/standalone/deployments/wildfly-ejb-in-war.war
 
